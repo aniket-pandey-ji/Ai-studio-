@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/8aa15704-b9b9-4733-b02c-8891cabaf2f9
+View your app in AI Studio: https://gemini-studio-904459026816.asia-southeast1.run.app
 
 ## Run Locally
 
